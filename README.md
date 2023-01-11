@@ -1,5 +1,1 @@
---------------
-- ***A Botany major by degree.***
-- ***Data analysis: MS Excel and Python.***
-- ***Programming: Python and C#.***
-----------------
+
