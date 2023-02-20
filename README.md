@@ -1,5 +1,5 @@
 # ***:)***
 ---------------------
-## ***x86-64 assembly (MASM), C, Python and Rust.***
+## ***x86-64 assembly (MASM), C and Python.***
 ## ***Windows & Win32 enthusiast.***
 ----------------------
