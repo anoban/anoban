@@ -1,4 +1,4 @@
 --------------------
-## ***:heavy_heart_exclamation: C, Python, Rust & x86-64 asm.***
+## ***:heavy_heart_exclamation: C, Python & x86-64 asm.***
 ---------------------
 
