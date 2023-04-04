@@ -1,6 +1,5 @@
 ---------------
-### ***Python for pretty much everything.***
-### ***C, Fortran and x86-64 when needed.***
+### ***Python, C, Fortran and x86-64.***
 ### ***Windows & Win32 enthusiast.***
 ---------------
 
