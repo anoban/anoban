@@ -3,6 +3,4 @@
 ### ***Windows & Win32 enthusiast.***
 ---------------
 
-<img src="C.svg">
-
 ## *"You grab at any sign of hope. You grab it with both hands and breathe life into it, day after day. You do anything to keep it alive." ~ Melina Marchetta*
