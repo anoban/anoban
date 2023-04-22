@@ -1,4 +1,4 @@
 ---------------
-- ## ***Python, C, GO & x86-64 asm.*** 
+- ## ***Python, C, Go & x86-64 asm.*** 
 - ## ***Windows & Win32 enthusiast.***
 ---------------
