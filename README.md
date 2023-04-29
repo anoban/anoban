@@ -1,4 +1,5 @@
 ---------------
 - ## ***Python, C & x86-64 asm.*** 
+- ## ***PowerShell***
 - ## ***Windows & Win32 enthusiast.***
 ---------------
