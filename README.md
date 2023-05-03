@@ -1,4 +1,5 @@
 ---------------
 - ## ***Python, C & x86-64 asm.*** 
-- ## ***Windows & Win32 enthusiast.***
+- ## ***Aspiring Rustacean.***
+- ## ***Win32 & MSVC intrinsics enthusiast.***
 ---------------
