@@ -1,4 +1,4 @@
 ---------------
-- ## ***Python, C & x86-64 asm.*** 
+- ## ***Python, C, Zig & x86-64 asm.*** 
 - ## ***Windows & MSVC enthusiast.***
 ---------------
