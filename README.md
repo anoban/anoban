@@ -2,9 +2,9 @@
 ```C
 typedef struct {
     char* names[];
-} faves;
+} faves_t;
 
-faves Languages = {.names = {"Python", "C", "Rust", "x86-64 asm"}};
-faves Tools = {.names = {"Win32", "MSVC", "LLVM"}};
+faves_t Languages = {.names = {"Python", "C", "Rust", "x86-64 asm"}};
+faves_t Tools = {.names = {"Win32", "MSVC", "LLVM"}};
 ```
 ---------------
