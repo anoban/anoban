@@ -9,4 +9,4 @@ faves_t Tools = {.names = {"Win32", "MSVC", "LLVM"}};
 ```
 ---------------
 
-![](./desktop-wallpaper-society-stupid-world.jpg)
+![](./stupidworldsimpsons.webp )
