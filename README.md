@@ -1,8 +1,6 @@
 ------------------------
 ## ***Data Science & 'Low level Programming'.***
 ------------------------
-
---------------
 ```C
 typedef struct {
     char* names[];
