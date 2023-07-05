@@ -1,6 +1,4 @@
 ------------------------
-## ***More inclined towards the "under the hood" stuff.***
-------------------------
 ```C
 typedef struct {
     char* names[];
