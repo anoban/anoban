@@ -1,5 +1,5 @@
 ------------------------
-## ***Data Science & 'Low level Programming'.***
+## ***More inclined towards the "under the hood" stuff.***
 ------------------------
 ```C
 typedef struct {
@@ -7,7 +7,7 @@ typedef struct {
 } faves_t;
 
 faves_t Languages = {.names = {"Python", "C", "CUDA", "x86-64 asm"}};
-faves_t Tech = {.names = {"Win32", "MSVC", "LLVM", "NVIDIA CUDA Toolkit"}};
+faves_t Tech = {.names = {"Win32/Windows NT", "MSVC", "LLVM", "NVIDIA CUDA Toolkit"}};
 ```
 --------------
 ![img](./stupidworldsimpsons.jpeg)
