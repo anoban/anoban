@@ -5,7 +5,7 @@ typedef struct {
 } faves_t;
 
 faves_t Languages = {.names = {"Python", "C", "x86-64 asm"}};
-faves_t Tech = {.names = {"Win32/Windows NT", "MSVC", "LLVM"}};
+faves_t Tech = {.names = {"Win32/Windows NT", "MSVC", "NVIDIA CUDA Toolkit"}};
 ```
 --------------
 ![img](./stupidworldsimpsons.jpeg)
