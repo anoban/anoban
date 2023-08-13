@@ -1,7 +1,7 @@
 ------------------------
 ```C
 typedef struct {
-    char* names[];
+   const char* names[];
 } faves_t;
 
 faves_t Languages = {.names = {"Python", "C", "C++", "x86-64"}};
