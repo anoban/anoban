@@ -1,10 +1,4 @@
-------------------------
-```C
-typedef struct {
-   const char* names[];
-} faves_t;
+- ___Languages: C, C++, x86-64 & Python___
 
-faves_t languages = {.names = {"C", "C++", "x86-64", "Python"}};
-faves_t stack = {.names = {"Win32 / Windows NT", "MSVC", "MASM", "Intel oneAPI Toolkit", "Windows SDK"}};
-```
---------------
+- ___Environments: Win32 / Windows NT, MSVC, MASM, Intel oneAPI Toolkit, Windows SDK & WinDbg___
+
