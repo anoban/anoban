@@ -1,4 +1,4 @@
 -----------
-- ### ___Languages: C, C++, Python & x86-64.___
-- ### ___Environments / Tools: Win32, MSVC, MASM, Intel oneAPI & Windows SDK.___
+- ### ___Languages: C, Rust, Python & x86-64.___
+- ### ___Environments / Tools: Win32, MSVC, MASM, LLVM & Windows SDK.___
 ----------
