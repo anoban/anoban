@@ -4,5 +4,5 @@ ___Win32 / Windows NT, WSL, Visual Studio, LLVM, NVIDIA CUDA & Windows SDK.___
 
 ---------------
 
-___I love empty streets, sea breeze, quiet places, misty cold moonlit nights, travelling and of course programming :)___
+___I love empty streets, sea breeze in sunny afternoons, quiet places, misty cold moonlit nights, travelling and of course programming :)___
 
