@@ -1,5 +1,5 @@
 -----------------
-___C, C++, x86-64 & Python.___      
-___Visual Studio, LLVM, NVIDIA CUDA, Windows SDK & WinDbg.___    
+___C, C++, x86-64 & Python___      
+___Visual Studio, Windows SDK, WinDbg, LLVM & NVIDIA CUDA___    
 
 ---------------
